@@ -4,4 +4,4 @@ Hello
 it's me
 I've been wondering something yeah
 "To travel is to live" 
-http://www.buzzfeed.com/jarrylee/this-grand-show#.kdeNERyOj
+[link][http://www.buzzfeed.com/jarrylee/this-grand-show#.kdeNERyOj]
